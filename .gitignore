@@ -1,0 +1,4 @@
+# Ignore emacs ~ and #modified files
+*~
+**/*~
+**/\#*
